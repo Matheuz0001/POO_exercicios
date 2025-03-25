@@ -1,0 +1,15 @@
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\EncapsulamentoNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\EncapsulamentoNota.AssemblyInfoInputs.cache
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\EncapsulamentoNota.AssemblyInfo.cs
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\EncapsulamentoNota.csproj.CoreCompileInputs.cache
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\EncapsulamentoNota.sourcelink.json
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\bin\Debug\net8.0\EncapsulamentoNota.exe
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\bin\Debug\net8.0\EncapsulamentoNota.deps.json
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\bin\Debug\net8.0\EncapsulamentoNota.runtimeconfig.json
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\bin\Debug\net8.0\EncapsulamentoNota.dll
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\bin\Debug\net8.0\EncapsulamentoNota.pdb
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\EncapsulamentoNota.dll
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\refint\EncapsulamentoNota.dll
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\EncapsulamentoNota.pdb
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\EncapsulamentoNota.genruntimeconfig.cache
+C:\Users\matheus.lima\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\Documentos\GitHub\POO_exercicios\EncapsulamentoNota\obj\Debug\net8.0\ref\EncapsulamentoNota.dll

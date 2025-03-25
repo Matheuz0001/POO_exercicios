@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.lima\\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\\Documentos\\GitHub\\POO_exercicios\\Revisao\\Revisao.csproj",
-      "projectName": "Revisao",
-      "projectPath": "C:\\Users\\matheus.lima\\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\\Documentos\\GitHub\\POO_exercicios\\Revisao\\Revisao.csproj",
+      "projectUniqueName": "C:\\Users\\matheus.lima\\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\\Documentos\\GitHub\\POO_exercicios\\EncapsulamentoNota\\EncapsulamentoNota.csproj",
+      "projectName": "EncapsulamentoNota",
+      "projectPath": "C:\\Users\\matheus.lima\\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\\Documentos\\GitHub\\POO_exercicios\\EncapsulamentoNota\\EncapsulamentoNota.csproj",
       "packagesPath": "C:\\Users\\matheus.lima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.lima\\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\\Documentos\\GitHub\\POO_exercicios\\Revisao\\obj\\",
+      "outputPath": "C:\\Users\\matheus.lima\\OneDrive - SECURITY VIGILANCIA PATRIMONIAL LTDA\\Documentos\\GitHub\\POO_exercicios\\EncapsulamentoNota\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matheus.lima\\AppData\\Roaming\\NuGet\\NuGet.Config"
